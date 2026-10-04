@@ -44,7 +44,7 @@ tags:
 - Virtual Assistant
 - Voice Assistant
 - Artificial Intelligence
-- Machine-Learning
+- Machine Learning
 - Speech Recognition
 - Natural-Language
 - SiriKit
@@ -59,6 +59,7 @@ tags_raw:
 - Natural Language
 - SiriKit
 - Apple
+- Machine-Learning
 apis: []
 x-enrichment:
   date: '2026-07-21'
